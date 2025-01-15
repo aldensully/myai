@@ -1,0 +1,7 @@
+# Ignore environment variables
+.env
+
+# Ignore other common files
+*.log
+__pycache__/
+
